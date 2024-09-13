@@ -46,7 +46,7 @@ The configuration file can contain multiple jobs, which will be sequentially exe
 
 See the following configuration for available configuration options:
 
-    - job-name:      "example-job"
+    - job-name:      "example-job-1"
       # API token to interact with the specified Grafana instance
       grafana-token: "eyJrIjoiSEp4dzhGdVBxMUhBdm..."
       # Base URL of the Grafana instance
